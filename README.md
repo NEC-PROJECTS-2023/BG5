@@ -2,8 +2,8 @@
 Heart Disease Prediction System using Machine Learning 
 
 Team Member Names:
-K.Sai Charani
-M.Sneha Ananya
+K.Sai Charani , 
+M.Sneha Ananya , 
 D.Rekha
 
 Introduction:
