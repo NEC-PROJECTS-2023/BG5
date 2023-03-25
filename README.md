@@ -2,9 +2,9 @@
 Heart Disease Prediction System using Machine Learning 
 
 Team Member Names:
-K.Sai Charani , 
-M.Sneha Ananya , 
-D.Rekha
+1. K.Sai Charani , 
+2. M.Sneha Ananya , 
+3. D.Rekha
 
 Introduction:
 The explosive growth of health-related data presented unprecedented 
@@ -26,5 +26,5 @@ Forest, boosted tree, stochastic gradient boosting and support vector machines t
 confirm the best prediction technique in terms of its accuracy and error rate on the specific 
 dataset.
 
-
+<br/>
 Dataset Link: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/
